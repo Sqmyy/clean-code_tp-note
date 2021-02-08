@@ -8,6 +8,6 @@ class Book {
     }
 
     public String toString() {
-        return ("title: " + title + " - By: " + author);
+        return (title + " By: " + author);
     }
 }
